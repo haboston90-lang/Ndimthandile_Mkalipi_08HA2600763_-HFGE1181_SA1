@@ -1,5 +1,0 @@
-C:/Users/User/Downloads/Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1/APK/unityLibrary/.cxx/RelWithDebInfo/2d4p326o/armeabi-v7a/CMakeFiles/edit_cache.dir
-C:/Users/User/Downloads/Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1/APK/unityLibrary/.cxx/RelWithDebInfo/2d4p326o/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-C:/Users/User/Downloads/Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1/APK/unityLibrary/.cxx/RelWithDebInfo/2d4p326o/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
-C:/Users/User/Downloads/Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1/APK/unityLibrary/.cxx/RelWithDebInfo/2d4p326o/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
-C:/Users/User/Downloads/Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1/APK/unityLibrary/.cxx/RelWithDebInfo/2d4p326o/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
