@@ -10,7 +10,7 @@ android {
     namespace "com.unity3d.player"
     ndkPath "C:/Program Files/Unity/Hub/Editor/6000.0.63f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK"
     ndkVersion "27.2.12479018"
-    compileSdk 34
+    compileSdk 36
     buildToolsVersion = "36.0.0"
 
     compileOptions {
@@ -22,7 +22,7 @@ android {
         consumerProguardFiles "proguard-unity.txt"
         versionName "1.0"
         minSdk 34
-        targetSdk 34
+        targetSdk 36
         versionCode 1
 
         ndk {

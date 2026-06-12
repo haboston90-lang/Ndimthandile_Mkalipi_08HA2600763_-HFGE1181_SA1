@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\launcher\src\main\jniLibs"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\launcher\src\release\jniLibs"/></dataSet></merger>

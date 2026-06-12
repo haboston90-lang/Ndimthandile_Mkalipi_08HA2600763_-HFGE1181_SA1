@@ -7,10 +7,10 @@ dependencies {
 }
 
 android {
-    namespace "com.DefaultCompany.SA1"
+    namespace "com.Boston.NotSpaceInvader"
     ndkPath "C:/Program Files/Unity/Hub/Editor/6000.0.63f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK"
     ndkVersion "27.2.12479018"
-    compileSdk 34
+    compileSdk 36
     buildToolsVersion = "36.0.0"
 
     compileOptions {
@@ -19,10 +19,10 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.DefaultCompany.SA1"
+        applicationId "com.Boston.NotSpaceInvader"
         versionName "1.0"
         minSdk 34
-        targetSdk 34
+        targetSdk 36
         versionCode 1
 
         ndk {

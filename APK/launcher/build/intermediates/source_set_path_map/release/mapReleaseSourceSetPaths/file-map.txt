@@ -1,8 +1,0 @@
-com.DefaultCompany.SA1.launcher-pngs-0 C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\launcher\build\generated\res\pngs\release
-com.DefaultCompany.SA1.launcher-resValues-1 C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\launcher\build\generated\res\resValues\release
-com.DefaultCompany.SA1.launcher-packageReleaseResources-2 C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\launcher\build\intermediates\incremental\release\packageReleaseResources\merged.dir
-com.DefaultCompany.SA1.launcher-packageReleaseResources-3 C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\launcher\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
-com.DefaultCompany.SA1.launcher-release-4 C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\launcher\build\intermediates\merged_res\release\mergeReleaseResources
-com.DefaultCompany.SA1.launcher-main-5 C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\launcher\src\main\res
-com.DefaultCompany.SA1.launcher-release-6 C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\launcher\src\release\res
-com.DefaultCompany.SA1.launcher-release-7 C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\build\intermediates\packaged_res\release\packageReleaseResources

@@ -1,4 +1,0 @@
-#Fri Jun 12 12:52:15 SAST 2026
-base.0=C\:\\Users\\User\\Downloads\\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\\APK\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
