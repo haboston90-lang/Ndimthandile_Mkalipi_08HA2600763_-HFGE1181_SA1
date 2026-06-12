@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.Boston.NotSpaceInvader.launcher-mergeReleaseResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\\APK\\unityLibrary\\build\\intermediates\\packaged_res\\release\\packageReleaseResources\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,212,303,349,406,462,511,557,604,672,764,907",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,15,19",
+                        "endColumns": "67,88,90,45,56,55,48,45,46,67,91,10,10",
+                        "endOffsets": "118,207,298,344,401,457,506,552,599,667,759,902,1131"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,12,13,14,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,212,303,349,406,462,511,557,657,725,817,960",
+                        "endLines": "2,3,4,5,6,7,8,9,10,12,13,16,20",
+                        "endColumns": "67,88,90,45,56,55,48,45,46,67,91,10,10",
+                        "endOffsets": "118,207,298,344,401,457,506,552,599,720,812,955,1184"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\\APK\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "50",
+                        "endOffsets": "103"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "604",
+                        "endColumns": "52",
+                        "endOffsets": "652"
+                    }
+                }
+            ]
+        }
+    ]
+}

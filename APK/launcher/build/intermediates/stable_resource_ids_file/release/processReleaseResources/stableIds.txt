@@ -1,0 +1,16 @@
+com.Boston.NotSpaceInvader:style/UnityThemeSelector.Translucent = 0x7f050002
+com.Boston.NotSpaceInvader:string/game_view_content_description = 0x7f040006
+com.Boston.NotSpaceInvader:style/BaseUnityTheme = 0x7f050000
+com.Boston.NotSpaceInvader:string/app_name = 0x7f040005
+com.Boston.NotSpaceInvader:string/FreeformWindowSize_phone = 0x7f040003
+com.Boston.NotSpaceInvader:string/FreeformWindowSize_tablet = 0x7f040004
+com.Boston.NotSpaceInvader:color/staticSplashScreenBackgroundColor = 0x7f010000
+com.Boston.NotSpaceInvader:string/FreeformWindowOrientation_portrait = 0x7f040001
+com.Boston.NotSpaceInvader:style/UnityThemeSelector = 0x7f050001
+com.Boston.NotSpaceInvader:string/FreeformWindowOrientation_landscape = 0x7f040000
+com.Boston.NotSpaceInvader:mipmap/app_icon = 0x7f030000
+com.Boston.NotSpaceInvader:color/windowSplashScreenAnimatedIconColor = 0x7f010001
+com.Boston.NotSpaceInvader:id/unitySurfaceView = 0x7f020000
+com.Boston.NotSpaceInvader:mipmap/app_icon_round = 0x7f030001
+com.Boston.NotSpaceInvader:color/windowSplashScreenIconBackgroundColor = 0x7f010002
+com.Boston.NotSpaceInvader:string/FreeformWindowSize_maximize = 0x7f040002
