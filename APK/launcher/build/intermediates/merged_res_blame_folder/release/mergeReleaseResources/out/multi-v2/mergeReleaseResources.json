@@ -1,0 +1,92 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.DefaultCompany.SA1.launcher-release-4:/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\\APK\\unityLibrary\\build\\intermediates\\packaged_res\\release\\packageReleaseResources\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "10",
+                        "endOffsets": "156"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.DefaultCompany.SA1.launcher-release-4:/values-v30_values-v30.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\\APK\\unityLibrary\\build\\intermediates\\packaged_res\\release\\packageReleaseResources\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,129,201,266,325",
+                        "endColumns": "73,71,64,58,60",
+                        "endOffsets": "124,196,261,320,381"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.DefaultCompany.SA1.launcher-release-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\\APK\\unityLibrary\\build\\intermediates\\packaged_res\\release\\packageReleaseResources\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,212,303,349,406,462,511,557,604,672,764,907",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,15,19",
+                        "endColumns": "67,88,90,45,56,55,48,45,46,67,91,10,10",
+                        "endOffsets": "118,207,298,344,401,457,506,552,599,667,759,902,1131"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,12,13,14,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,212,303,349,406,462,511,557,645,713,805,948",
+                        "endLines": "2,3,4,5,6,7,8,9,10,12,13,16,20",
+                        "endColumns": "67,88,90,45,56,55,48,45,46,67,91,10,10",
+                        "endOffsets": "118,207,298,344,401,457,506,552,599,708,800,943,1172"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\\APK\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "91"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "604",
+                        "endColumns": "40",
+                        "endOffsets": "640"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.DefaultCompany.SA1.launcher-release-4:/values-v31_values-v31.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\\APK\\unityLibrary\\build\\intermediates\\packaged_res\\release\\packageReleaseResources\\values-v31\\values-v31.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "10",
+                        "endOffsets": "545"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+<dependencies>
+  <compile
+      roots="__local_aars__:C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\libs\unity-classes.jar:unspecified@jar,androidx.games:games-frame-pacing:1.10.0@aar">
+    <dependency
+        name="__local_aars__:C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\libs\unity-classes.jar"/>
+    <dependency
+        name="androidx.games:games-frame-pacing:1.10.0@aar"
+        simpleName="androidx.games:games-frame-pacing"/>
+  </compile>
+  <package
+      roots="__local_aars__:C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\libs\unity-classes.jar:unspecified@jar,androidx.games:games-frame-pacing:1.10.0@aar">
+    <dependency
+        name="__local_aars__:C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\libs\unity-classes.jar"/>
+    <dependency
+        name="androidx.games:games-frame-pacing:1.10.0@aar"
+        simpleName="androidx.games:games-frame-pacing"/>
+  </package>
+</dependencies>

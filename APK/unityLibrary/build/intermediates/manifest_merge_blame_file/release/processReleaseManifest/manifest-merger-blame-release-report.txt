@@ -1,0 +1,151 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk android:minSdkVersion="34" />
+7
+8    <uses-feature android:glEsVersion="0x00030000" />
+8-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:3:3-52
+8-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:3:17-49
+9    <uses-feature
+9-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:4:3-91
+10        android:name="android.hardware.vulkan.version"
+10-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:4:17-63
+11        android:required="false" />
+11-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:4:64-88
+12    <uses-feature
+12-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:5:3-88
+13        android:name="android.hardware.touchscreen"
+13-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:5:17-60
+14        android:required="false" />
+14-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:5:61-85
+15    <uses-feature
+15-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:6:3-99
+16        android:name="android.hardware.touchscreen.multitouch"
+16-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:6:17-71
+17        android:required="false" />
+17-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:6:72-96
+18    <uses-feature
+18-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:7:3-108
+19        android:name="android.hardware.touchscreen.multitouch.distinct"
+19-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:7:17-80
+20        android:required="false" />
+20-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:7:81-105
+21
+22    <application
+22-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:8:3-27:17
+23        android:appCategory="game"
+23-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:8:16-42
+24        android:enableOnBackInvokedCallback="true"
+24-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:8:43-85
+25        android:extractNativeLibs="true" >
+25-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:8:86-118
+26        <meta-data
+26-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:9:5-69
+27            android:name="unity.splash-mode"
+27-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:9:16-48
+28            android:value="0" />
+28-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:9:49-66
+29        <meta-data
+29-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:10:5-74
+30            android:name="unity.splash-enable"
+30-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:10:16-50
+31            android:value="True" />
+31-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:10:51-71
+32        <meta-data
+32-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:11:5-78
+33            android:name="unity.launch-fullscreen"
+33-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:11:16-54
+34            android:value="True" />
+34-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:11:55-75
+35        <meta-data
+35-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:12:5-84
+36            android:name="unity.render-outside-safearea"
+36-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:12:16-60
+37            android:value="True" />
+37-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:12:61-81
+38        <meta-data
+38-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:13:5-81
+39            android:name="notch.config"
+39-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:13:16-43
+40            android:value="portrait|landscape" />
+40-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:13:44-78
+41        <meta-data
+41-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:14:5-84
+42            android:name="unity.auto-report-fully-drawn"
+42-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:14:16-60
+43            android:value="true" />
+43-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:14:61-81
+44        <meta-data
+44-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:15:5-79
+45            android:name="unity.strip-engine-code"
+45-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:15:16-54
+46            android:value="false" />
+46-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:15:55-76
+47        <meta-data
+47-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:16:5-80
+48            android:name="unity.auto-set-game-state"
+48-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:16:16-56
+49            android:value="true" />
+49-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:16:57-77
+50
+51        <activity
+51-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:17:5-26:16
+52            android:name="com.unity3d.player.UnityPlayerActivity"
+52-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:17:312-365
+53            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+53-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:17:15-196
+54            android:enabled="true"
+54-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:17:197-219
+55            android:exported="true"
+55-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:17:220-243
+56            android:hardwareAccelerated="false"
+56-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:17:244-279
+57            android:launchMode="singleTask"
+57-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:17:280-311
+58            android:resizeableActivity="true"
+58-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:17:366-399
+59            android:screenOrientation="reverseLandscape"
+59-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:17:400-444
+60            android:theme="@style/UnityThemeSelector" >
+60-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:17:445-486
+61            <intent-filter>
+61-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:18:7-21:23
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:19:9-69
+62-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:19:19-66
+63
+64                <action android:name="android.intent.action.MAIN" />
+64-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:20:9-61
+64-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:20:17-58
+65            </intent-filter>
+66
+67            <meta-data
+67-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:22:7-82
+68                android:name="unityplayer.UnityActivity"
+68-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:22:18-58
+69                android:value="true" />
+69-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:22:59-79
+70            <meta-data
+70-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:23:7-130
+71                android:name="WindowManagerPreference:FreeformWindowSize"
+71-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:23:18-75
+72                android:value="@string/FreeformWindowSize_maximize" />
+72-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:23:76-127
+73            <meta-data
+73-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:24:7-145
+74                android:name="WindowManagerPreference:FreeformWindowOrientation"
+74-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:24:18-82
+75                android:value="@string/FreeformWindowOrientation_landscape" />
+75-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:24:83-142
+76            <meta-data
+76-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:25:7-70
+77                android:name="notch_support"
+77-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:25:18-46
+78                android:value="true" />
+78-->C:\Users\User\Downloads\Ndimthandile_Mkalipi_08HA2600763_ HFGE1181_SA1\APK\unityLibrary\src\main\AndroidManifest.xml:25:47-67
+79        </activity>
+80    </application>
+81
+82</manifest>
